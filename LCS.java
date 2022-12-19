@@ -66,5 +66,3 @@ class LCS {
 			+ findLongestConseqSubseq(arr, n));
 	}
 }
-
-// This code is contributed by parascoding
